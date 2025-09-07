@@ -5248,7 +5248,7 @@
 {"literal":"淪","pattern":"⿰","composition":"氵 侖","dependencies":"氵 𠆢 一 亼 冂 侖"}
 {"literal":"淫","pattern":"⿰","composition":"氵","dependencies":"氵","dependents":"霪"}
 {"literal":"淬","pattern":"⿰","composition":"氵 卒","dependencies":"氵 亠 人 从 十 卒"}
-{"literal":"淮","pattern":"⿰","composition":"氵 隹","dependencies":"氵 隹","dependents":"匯 準"}
+{"literal":"淮","pattern":"⿰","composition":"氵 隹","dependencies":"氵 隹","dependents":"匯"}
 {"literal":"淯","pattern":"⿰","composition":"氵 育","dependencies":"氵 亠 厶 育"}
 {"literal":"淰","pattern":"⿰","composition":"氵 念","dependencies":"氵 𠆢 一 亼 今 心 念"}
 {"literal":"深","pattern":"⿰","composition":"氵","dependencies":"氵 木"}
@@ -5345,7 +5345,7 @@
 {"literal":"溏","pattern":"⿰","composition":"氵 唐","dependencies":"氵 广 唐"}
 {"literal":"源","pattern":"⿰","composition":"氵 原","dependencies":"氵 厂 原"}
 {"literal":"溓","pattern":"⿰","composition":"氵 兼","dependencies":"氵 䒑 兼"}
-{"literal":"準","pattern":"⿱","composition":"淮 十","dependencies":"氵 隹 淮 十"}
+{"literal":"準","pattern":"⿽","composition":"隼 氵","dependencies":"隹 十 隼 氵"}
 {"literal":"溘","pattern":"⿰","composition":"氵 盍","dependencies":"氵 土 厶 去 皿 盍"}
 {"literal":"溙","pattern":"⿰","composition":"氵 泰","dependencies":"氵 𡗗 氺 泰"}
 {"literal":"溜","pattern":"⿰","composition":"氵 留","dependencies":"氵 田 留"}
@@ -11321,7 +11321,7 @@
 {"literal":"隹","dependents":"㩳 䧺 䨄 催 僱 儁 儸 儺 准 凖 勧 勸 匯 售 唯 噍 嚄 嚾 囃 囉 堆 墔 壅 奞 奪 奮 嫶 嬥 寉 寯 崔 嵟 嶊 嶕 嶲 帷 廱 彠 惟 憔 應 懏 懼 懽 戁 戄 截 戳 推 携 摧 撨 擁 擕 擢 擭 攉 攜 攞 攤 攫 暹 曜 椎 榫 槯 権 樵 檇 檴 櫂 欆 權 欋 欏 欟 歓 歡 氍 淮 準 滙 漼 潅 潗 濉 濩 濯 濰 灈 灉 灌 灕 灘 焦 燋 燿 爟 犨 獲 玀 玃 璀 璡 瓘 甕 癄 癕 癨 癯 癰 癱 皠 睢 瞧 瞿 矍 矱 碓 磪 礁 礭 稚 穕 穫 篗 籆 籊 籗 籬 籮 籰 糴 糶 維 罐 罹 羅 翟 耀 脽 膲 膺 臃 臛 臞 臡 舊 艧 艭 萑 蒦 蓷 蕉 蕹 薙 藋 藺 藿 蘸 蘺 蘿 虧 蜼 蟭 蠖 蠘 蠵 蠼 衢 襍 観 觀 觹 觽 觿 誰 譍 譙 護 讎 讐 讙 貛 貜 贋 趯 躍 躙 躩 躪 軅 軈 轥 進 邏 醮 錐 鎨 鏙 鐎 鐫 鑃 鑊 鑵 鑼 钁 陮 隻 隼 隽 雀 雁 雄 雅 集 雇 雉 雊 雋 雌 雍 雎 雑 雒 雕 雖 雘 雙 雚 雛 雜 雝 雞 雟 離 難 霍 靃 靍 韄 顦 顧 顴 飌 饔 饠 騅 驩 魋 鵻 鶽 鷕 鷦 鷹 鸐 鸖 鸛 鸜 𠍱 𢅻 𣙇 𣝤 𣠤 𦾔 𨫝 𨿸 𪆐"}
 {"literal":"隺","dependents":"傕 搉 榷 確 靏 鶴"}
 {"literal":"隻","pattern":"⿱","composition":"隹 又","dependencies":"隹 又","dependents":"嚄 彠 擭 檴 濩 獲 矱 穫 篗 籆 艧 蒦 蠖 護 鑊 雘 韄"}
-{"literal":"隼","pattern":"⿱","composition":"隹 十","dependencies":"隹 十","dependents":"榫 鎨 鶽"}
+{"literal":"隼","pattern":"⿱","composition":"隹 十","dependencies":"隹 十","dependents":"榫 準 鎨 鶽"}
 {"literal":"隽","pattern":"⿱","composition":"隹 乃","dependencies":"隹 乃","dependents":"携"}
 {"literal":"雀","pattern":"⿱","composition":"小 隹","dependencies":"小 隹"}
 {"literal":"雁","pattern":"⿸","composition":"厂","dependencies":"厂 亻 隹","dependents":"贋"}
