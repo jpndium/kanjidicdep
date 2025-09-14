@@ -971,7 +971,7 @@
 {"literal":"卌"}
 {"literal":"卍"}
 {"literal":"卑","pattern":"⿱","composition":"十","dependencies":"十","dependents":"俾 啤 埤 婢 庳 捭 朇 椑 牌 痺 睥 碑 稗 箄 篺 粺 脾 萆 薭 蜱 裨 郫 錍 陴 鞞 顰 髀 鵯 鼙"}
-{"literal":"卒","pattern":"⿱","composition":"十","dependencies":"亠 人 从 十","dependents":"倅 啐 埣 崒 悴 捽 晬 椊 淬 焠 猝 璻 瘁 睟 碎 稡 窣 粹 綷 翠 脺 膵 臎 萃 誶 醉 顇"}
+{"literal":"卒","pattern":"⿱","composition":"亠","dependencies":"亠 人 从 十","dependents":"倅 啐 埣 崒 悴 捽 晬 椊 淬 焠 猝 璻 瘁 睟 碎 稡 窣 粹 綷 翠 脺 膵 臎 萃 誶 醉 顇"}
 {"literal":"卓","pattern":"⿱","composition":"早","dependencies":"日 十 早","dependents":"䈇 倬 啅 婥 悼 掉 晫 棹 淖 焯 竨 綽 罩 趠 踔 逴 鵫 𥇍"}
 {"literal":"協","pattern":"⿰","composition":"十 劦","dependencies":"十 力 劦"}
 {"literal":"南","pattern":"⿱","composition":"十","dependencies":"十","dependents":"喃 婻 楠 湳 献 罱 腩 蝻 諵 遖"}
