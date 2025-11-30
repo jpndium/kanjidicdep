@@ -12824,7 +12824,7 @@
 {"literal":"𣑊","pattern":"⿰","composition":"木 在","dependencies":"木 土 在"}
 {"literal":"𣑋","pattern":"⿰","composition":"木 守","dependencies":"木 宀 寸 守"}
 {"literal":"𣑑","pattern":"⿰","composition":"木 字","dependencies":"木 宀 子 字"}
-{"literal":"𣑥","pattern":"⿰ ⿱","composition":"木 耂 丁","dependencies":"木 耂 丁"}
+{"literal":"𣑥","pattern":"⿰","composition":"木","dependencies":"木 耂 丁"}
 {"literal":"𣓤","pattern":"⿰","composition":"木 尭","dependencies":"木 十 兀 尭"}
 {"literal":"𣕚","pattern":"⿰","composition":"木 茂","dependencies":"木 艹 戊 茂"}
 {"literal":"𣖔","pattern":"⿰","composition":"木 厚","dependencies":"木 厂 曰 子 㫗 厚"}
