@@ -8657,7 +8657,7 @@
 {"literal":"葒","pattern":"⿱","composition":"艹 紅","dependencies":"艹 糸 工 紅"}
 {"literal":"葖","pattern":"⿱","composition":"艹 突","dependencies":"艹 宀 八 穴 犬 突"}
 {"literal":"著","pattern":"⿱","composition":"艹 者","dependencies":"艹 耂 日 者","dependents":"墸 躇 鐯"}
-{"literal":"葘","pattern":"⿳ ⿻","composition":"艹 巛 一 田","dependencies":"艹 巛 一 田"}
+{"literal":"葘","pattern":"⿱","composition":"艹","dependencies":"艹 巛 一 田"}
 {"literal":"葙","pattern":"⿱","composition":"艹 相","dependencies":"艹 木 目 相"}
 {"literal":"葚","pattern":"⿱","composition":"艹 甚","dependencies":"艹 匚 儿 匹 甚"}
 {"literal":"葛","pattern":"⿱","composition":"艹 曷","dependencies":"艹 曰 勹 人 匃 曷","dependents":"噶 獦 臈 轕"}
