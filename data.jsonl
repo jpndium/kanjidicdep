@@ -9293,7 +9293,7 @@
 {"literal":"衛","pattern":"⿴","composition":"行 韋","dependencies":"彳 一 丁 亍 行 口 韋"}
 {"literal":"衜","pattern":"⿴","composition":"行 首","dependencies":"彳 一 丁 亍 行 首"}
 {"literal":"衝","pattern":"⿴","composition":"行 重","dependencies":"彳 一 丁 亍 行 重"}
-{"literal":"衞","pattern":"⿴ ⿳","composition":"行 口 帀","dependencies":"彳 一 丁 亍 行 口 巾 帀","dependents":"讏"}
+{"literal":"衞","pattern":"⿴","composition":"行","dependencies":"彳 一 丁 亍 行 口 巾 帀","dependents":"讏"}
 {"literal":"衟","pattern":"⿴","composition":"行","dependencies":"彳 一 丁 亍 行 巛"}
 {"literal":"衠","pattern":"⿴","composition":"行 真","dependencies":"彳 一 丁 亍 行 十 目 八 具 真"}
 {"literal":"衡","pattern":"⿴","composition":"行","dependencies":"彳 一 丁 亍 行 田 大","dependents":"蘅"}
